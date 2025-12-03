@@ -1,0 +1,26 @@
+.Subtitulos {
+  color: #2b6cb0;
+  font-size: x-large;  
+  font-family: "euphoria script", cursive;
+  
+}
+.center-image {
+  display: block;
+  margin: 0 auto;
+}
+.color-linea {
+  border-color: #2b6cb0;
+}
+.Border {
+  width: 200px;
+  height: 200px;
+  object-fit: cover;
+  border: 6px solid #2b6cb0;
+  border-radius: 50%;
+  display: block;
+  margin: 0 auto;
+}
+.center-color {
+  text-align: center;
+  color: #2b6cb0;
+}
